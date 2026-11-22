@@ -12,7 +12,7 @@ int main()
 	cout<<"The value a is "<<a<<endl;
 	
 	//Now i will use float and const
-	float const b=678.96;
+	float const b=678.96;   
 	cout<<"The decimal value of b is "<<b<<endl;
 	return 0;
 }
