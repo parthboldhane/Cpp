@@ -14,5 +14,5 @@ int main()
 	//Now i will use float and const
 	float const b=678.96;   
 	cout<<"The decimal value of b is "<<b<<endl;
-	return 0;
+	return 0; 
 }
